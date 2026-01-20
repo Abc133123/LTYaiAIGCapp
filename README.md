@@ -1,7 +1,8 @@
 # LTYaiAIGCapp
 这个是由unity打造的AIGC交互 使用洛天依的VITS模型和fbx 
 
-本项目为开源 社区ltyai.cn  （没BBS申请,加QQ群）
+<h1>本项目为开源 社区ltyai.cn  （没BBS申请,加QQ群）<h1/>
+局域网服务器部署教程https://blog.csdn.net/m0_67479857/article/details/157141190
 
 项目介绍 Unity AIGC app 
 
