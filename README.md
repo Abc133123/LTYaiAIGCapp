@@ -10,7 +10,7 @@
 核心
 Script文件夹下
 main下
-ChatMain.cs //主调用 记得改百炼API 不然默认没功能
+ChatMain.cs //主调用 记得改百炼API 不然默认没功能 <br>
 ChatLLMService.cs //启用服务 
 ChatManager.cs  //信息交互
 ChatUIController.cs //控制器
